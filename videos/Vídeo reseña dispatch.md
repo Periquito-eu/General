@@ -54,3 +54,14 @@ Estos en general serán todos los personajes que veréis en vuestra partida de D
 *Cierra el programa*
 
 Bueno, eso que acabais de ver consiste de la primera parte del juego, la parte del "Dispacheo", en esta parte, simplemente haces eso, mandar gente según las stats que tengan, por ejemplo, si me piden que haga algo rápido deberé de enviar a alguien con velocidad. Así en cada caso.
+
+
+----
+**Audios envíados**
+
+- [ ] Alex
+- [ ] Ale
+- [x] Dydi
+- [ ] Iván
+- [x] Luis
+- [ ] Yo mismo jaja
