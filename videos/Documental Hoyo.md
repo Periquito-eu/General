@@ -36,7 +36,7 @@ Bueno chavales, se que este video ha sido corto, pero te quiero pedir un único 
 
 **LISTA DE COSAS QUE TENGO QUE HACER**
 
-- [ ] La caminata
-- [ ] Video de los patos o escena guapa 
+- [x] La caminata
+- [x] Video de los patos o escena guapa 
 - [ ] Editar el vídeo 
 - [x] Mandar los mensajes
