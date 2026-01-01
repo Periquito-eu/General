@@ -55,6 +55,10 @@ Estos en general serán todos los personajes que veréis en vuestra partida de D
 
 Bueno, eso que acabais de ver consiste de la primera parte del juego, la parte del "Dispacheo", en esta parte, simplemente haces eso, mandar gente según las stats que tengan, por ejemplo, si me piden que haga algo rápido deberé de enviar a alguien con velocidad. Así en cada caso.
 
+Las escenas son básicamente lo que estas viendo en pantalla, animaciones, en estas pues te cuentan de la historia, hay quick time events, pero lo que mola, son las decisiones, que es en lo que se fundamenta el juego, con las decisiones, las decisiones si importan, para que entiendas, hay más de 32 finales con muchas posibilidades, por lo que cada decisión afecta, por ejemplo (Importante recalcar que se vienen spoilers) en mi partida eché a Sonar, y en el capítulo final me enfrenté a él.
+
+Sé que el vídeo me ha quedado bastante corto, pero no sabéis lo que me ha costado editar este vídeo, ha sido una cosa desastrosa, así que sin decir nada más, ¡adios!
+
 
 ----
 **Audios envíados**
@@ -62,6 +66,6 @@ Bueno, eso que acabais de ver consiste de la primera parte del juego, la parte d
 - [ ] Alex
 - [ ] Ale
 - [x] Dydi
-- [ ] Iván
+- [x] Iván
 - [x] Luis
-- [ ] Yo mismo jaja
+- [x] Yo mismo jaja
