@@ -1,0 +1,1 @@
+Génesis es el ultimo ángel (sin contar a [[Expedia]]) que el tercer grupo enfrenta, este no es más que la representación de un camino sin vuelta atras. Este ángel no tiene una forma de mounstro, sino de humano, este es un hombre pálido, cansado y formal, que conoce todo. Este además aparece el día donde el tercer grupo llega a Tokio-3, donde les interroga
