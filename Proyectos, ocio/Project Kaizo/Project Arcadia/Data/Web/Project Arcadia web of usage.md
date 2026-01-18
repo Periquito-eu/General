@@ -15,6 +15,7 @@ Los personajes, será donde se guarde la información de los personajes (princip
 	- Debate (max: 15)
 	- Persuasión (max: 15)
 - Conocimiento primario:
+	Solo puedes tener un conocimiento primario, así que deberás de seleccionarlo. Tras seleccionarlo, podrás cambiar las estadísticas de ese conocimiento
 	- Combate cuerpo a cuerpo:
 		- Fuerza (max: 20)
 		- Destreza (max: 20)
@@ -55,6 +56,7 @@ Los personajes, será donde se guarde la información de los personajes (princip
 - Conocimiento adquirido (a través de libros)
 - Cuerpo:
 	- Vida
+	- Estamina
 	- Velocidad
 	- Defensa
 	- Defensa física
@@ -66,21 +68,34 @@ Los personajes, será donde se guarde la información de los personajes (princip
 Para subir las estadísticas de los personajes habrá que subir de nivel, para subir de nivel, deberemos de subir EXP, por cada nivel que tengas, se requerirá EXP, cada nivel subido otorgará un punto de experiencia, este punto se podrá utilizar para subir un punto una estadística deseada, las habilidades sociales y conocimiento primario suben de manera normal (de uno a uno) Mientras que las estadísticas de cuerpo van subiendo de forma diferente, funcionan de la siguiente manera:
 
 Vida: Sube +67 vida por cada punto de experiencia.
+Estamina: Sube +1 estamina por cada punto de experiencia.
 Defensa: Sube +3 defensa (según el tipo elegido) por cada punto de experiencia.
 Daño: Sube +3 daño por cada punto de experiencia.
 Velocidad: Sube +2 velocidad por cada punto de experiencia.
 
-Estas estadísticas también nombradas no poseen límite de puntos
+Estas estadísticas también nombradas no poseen límite de puntos de experiencia que se pueden usar
 
 Estos serían todos los datos que tiene cada personaje, (en conocimiento primario, cada apartado es una opción, lo que significa que no puedes tener 2 conocimientos primarios a la vez) Existe una opción:
 
 - Creación propia:
-	Consiste en crear tu mismo el personaje con sus datos y estadísticas.
+	Consiste en crear el personaje con sus datos y estadísticas. Al crear un personaje, aparecerá los datos del personaje para ser editados, no tiene ningún tipo de límite de puntos de experiencia subir, tras ya crear el personaje, funcionarán ya normal para subir las estadísticas (ósea, requerirán puntos de EXP) Las armas y amuletos se deben de seleccionar de las que hay en la pestaña de datos)
 
 Se pueden borrar personajes, cuando se crea el personaje, se pueden editar las estadísticas sin restricción, tras ya crearlo, se subirá con los puntos de EXP
 ## 2. Mapa
 
 El mundo se divide en un gran mundo abierto llamado "Arcadia" en esta función, el dungeon master podrá hacer zoom/zoomout, agregar puntos de interés al mapa, seleccionar zonas como ciudades, etcétera. los archivos de los mapas se llaman "map_d.png" (mapa de día) y "map_n.png" (mapa de noche) Se pueden seleccionar rutas entre intereses del mapa.
+
+Permite agregar puntos de interés en cada ubicación del mapa, cada punto de interés tiene los siguientes datos:
+
+- Nombre
+- Tipo
+- Color
+- Icono (Emoji)
+- Descripción
+- Desbloqueado
+	Indica si el perfil seleccionado tiene el ese punto de interés desbloqueado (osea, visible)
+
+Similar a un mapa de un mundo abierto, permite filtrar el mapa según el tipo de puntos de interés.
 
 ## 3. Grupos
 
@@ -246,12 +261,12 @@ Esta su función principal es la de ver el registro y utilizar comandos, los com
 ## 9. Wiki
 
 Esta novena función recopilará TODAS las funciones de la aplicación, textualmente TODAS, explicándolo todo de una forma como la que he explicado yo.
+## 10. Otras cosas 
 
---- 
 Para finalizar, explicar los archivos:
 
 test.json es un archivo .json de ejemplo de como funciona el sistema de importación de personajes.
 
-map_d y map_n: Son las 2 imágenes de mapas.
+map_d (Mapa de día) y map_n (Mapa de noche): Son las 2 imágenes de mapas.
 
-Recuerda todo lo explicado y nombrado.
+Recuerda todo lo explicado y nombrado. Ve paso a paso creándolo. No te saltes ninguna función, hazlo todo completo y que se pueda utilizar. Usa colores destacados dorados y de fondo un negro similar más al gris, que dé a toques dorados
